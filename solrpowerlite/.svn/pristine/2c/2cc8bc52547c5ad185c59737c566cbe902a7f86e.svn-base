@@ -1,0 +1,3 @@
+directory=d:/webroot/solrpowerlite/webroot/pub/
+recurse=no
+interval=10000
